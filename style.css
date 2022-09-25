@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(145, 250, 135);
+}
+
+.korma {
+    background-color: brown;
+    color: rgb(255, 231, 231);
+}
+
+#smaller {
+    width: 300px;
+    height: auto;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.parmesan ul{
+    font-weight: bold;
+}
+
+.parmesan {
+    background-color: skyblue;
+}
